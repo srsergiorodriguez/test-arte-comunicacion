@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mi sitio de prueba",
+    "description": "",
+    "home_page_url": "https://srsergiorodriguez.github.io/test-arte-comunicacion",
+    "feed_url": "https://srsergiorodriguez.github.io/test-arte-comunicacion/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sergio RG"
+    },
+    "items": [
+        {
+            "id": "https://srsergiorodriguez.github.io/test-arte-comunicacion/otro-post-mas.html",
+            "url": "https://srsergiorodriguez.github.io/test-arte-comunicacion/otro-post-mas.html",
+            "title": "Otro post más",
+            "summary": "ASDdsa ads sdasadsad sad das ds aadsdas ads asd as dsadsa ",
+            "content_html": "<p>ASDdsa ads sdasadsad sad</p>\n<p> das</p>\n<p>ds aadsdas ads</p>\n<p>asd as dsadsa </p>",
+            "author": {
+                "name": "Sergio RG"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-02T11:48:00-05:00",
+            "date_modified": "2025-08-02T11:48:00-05:00"
+        },
+        {
+            "id": "https://srsergiorodriguez.github.io/test-arte-comunicacion/otro-post.html",
+            "url": "https://srsergiorodriguez.github.io/test-arte-comunicacion/otro-post.html",
+            "title": "Otro post",
+            "summary": "ASDad asdasd as",
+            "content_html": "<p>ASDad asdasd as</p>",
+            "author": {
+                "name": "Sergio RG"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-02T11:47:34-05:00",
+            "date_modified": "2025-08-02T11:47:34-05:00"
+        },
+        {
+            "id": "https://srsergiorodriguez.github.io/test-arte-comunicacion/post-de-prueba.html",
+            "url": "https://srsergiorodriguez.github.io/test-arte-comunicacion/post-de-prueba.html",
+            "title": "Post de prueba",
+            "summary": "Esta es información sobre un post assadas",
+            "content_html": "<p>Esta es información sobre un post</p>\n<h1>Esto es un titular</h1>\n<p>assadas</p>",
+            "author": {
+                "name": "Sergio RG"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-02T11:39:20-05:00",
+            "date_modified": "2025-08-02T11:39:20-05:00"
+        }
+    ]
+}

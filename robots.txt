@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://srsergiorodriguez.github.io/test-arte-comunicacion/sitemap.xml

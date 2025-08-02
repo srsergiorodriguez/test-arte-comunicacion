@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Mi sitio de prueba</title>
+    <link href="https://srsergiorodriguez.github.io/test-arte-comunicacion/feed.xml" rel="self" />
+    <link href="https://srsergiorodriguez.github.io/test-arte-comunicacion" />
+    <updated>2025-08-02T11:48:00-05:00</updated>
+    <author>
+        <name>Sergio RG</name>
+    </author>
+    <id>https://srsergiorodriguez.github.io/test-arte-comunicacion</id>
+
+    <entry>
+        <title>Otro post más</title>
+        <author>
+            <name>Sergio RG</name>
+        </author>
+        <link href="https://srsergiorodriguez.github.io/test-arte-comunicacion/otro-post-mas.html"/>
+        <id>https://srsergiorodriguez.github.io/test-arte-comunicacion/otro-post-mas.html</id>
+
+        <updated>2025-08-02T11:48:00-05:00</updated>
+            <summary>
+                <![CDATA[
+                    ASDdsa ads sdasadsad sad das ds aadsdas ads asd as dsadsa 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ASDdsa ads sdasadsad sad</p>
+<p> das</p>
+<p>ds aadsdas ads</p>
+<p>asd as dsadsa </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Otro post</title>
+        <author>
+            <name>Sergio RG</name>
+        </author>
+        <link href="https://srsergiorodriguez.github.io/test-arte-comunicacion/otro-post.html"/>
+        <id>https://srsergiorodriguez.github.io/test-arte-comunicacion/otro-post.html</id>
+
+        <updated>2025-08-02T11:47:34-05:00</updated>
+            <summary>
+                <![CDATA[
+                    ASDad asdasd as
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ASDad asdasd as</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Post de prueba</title>
+        <author>
+            <name>Sergio RG</name>
+        </author>
+        <link href="https://srsergiorodriguez.github.io/test-arte-comunicacion/post-de-prueba.html"/>
+        <id>https://srsergiorodriguez.github.io/test-arte-comunicacion/post-de-prueba.html</id>
+
+        <updated>2025-08-02T11:39:20-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Esta es información sobre un post assadas
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Esta es información sobre un post</p>
+<h1>Esto es un titular</h1>
+<p>assadas</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
